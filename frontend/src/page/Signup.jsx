@@ -11,7 +11,7 @@ const Signup = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:8000/api/user/signup', {
+      const response = await axios.post('https://qa-tw02.onrender.com/api/user/signup', {
         email,
         password,
         name

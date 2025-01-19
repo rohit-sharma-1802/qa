@@ -117,7 +117,7 @@ const QASection = ({ documentId }) => {
     try {
       const token = localStorage.getItem("token");
 
-      const response = await axios.get(`http://localhost:8000/api/files/${documentId}/history`,{
+      const response = await axios.get(`https://qa-tw02.onrender.com/api/files/${documentId}/history`,{
         headers: {
           Authorization: `Bearer ${token}`,
         },
@@ -142,7 +142,7 @@ const QASection = ({ documentId }) => {
     try {
       const token = localStorage.getItem("token");
 
-      const response = await axios.post("http://localhost:8000/api/qa/ask", {
+      const response = await axios.post("https://qa-tw02.onrender.com/api/qa/ask", {
         documentId,
         question,
       },{

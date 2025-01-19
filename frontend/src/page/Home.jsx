@@ -21,7 +21,7 @@ const Home = () => {
     try {
       const token = localStorage.getItem("token");
 
-      const response = await axios.get("http://localhost:8000/api/files", {
+      const response = await axios.get("https://qa-tw02.onrender.com/api/files", {
         headers: {
           Authorization: `Bearer ${token}`,
         },

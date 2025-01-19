@@ -10,7 +10,7 @@ const Login = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:8000/api/user/login', {
+      const response = await axios.post('https://qa-tw02.onrender.com/api/user/login', {
         email,
         password
       });

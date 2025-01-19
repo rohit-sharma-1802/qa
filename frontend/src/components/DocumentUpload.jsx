@@ -31,7 +31,7 @@ const DocumentUpload = ({ onUploadComplete }) => {
       if (files.length) {
         const formData = new FormData();
         files.forEach((file) => formData.append("files", file));
-        const response = await axios.post("http://localhost:8000/api/files/upload", formData, {
+        const response = await axios.post("https://qa-tw02.onrender.com/api/files/upload", formData, {
           headers: { 
             "Content-Type": "multipart/form-data", 
             Authorization: `Bearer ${token}` 
@@ -44,7 +44,7 @@ const DocumentUpload = ({ onUploadComplete }) => {
   
       if (driveLink) {
         const token = localStorage.getItem("token");
-        const response = await axios.post("http://localhost:8000/api/files/upload-drive-link", { link: driveLink }, {headers: {
+        const response = await axios.post("https://qa-tw02.onrender.com/api/files/upload-drive-link", { link: driveLink }, {headers: {
           Authorization: `Bearer ${token}`,
         },});
         onUploadComplete(response.data.document);
