@@ -15,7 +15,7 @@ const app = express();
 const PORT = process.env.PORT || 8000;
 
 app.use(cors({
-  origin: "http://localhost:1234", 
+  origin: "https://qa-1.onrender.com/", 
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type","Authorization"],
   credentials: true,
