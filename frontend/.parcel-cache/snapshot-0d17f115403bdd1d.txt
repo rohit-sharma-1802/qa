@@ -1,4 +1,4 @@
-6813
+6815
 106C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\react-router-dom\dist\server.d.ts133817408395894005 0
 90C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\tailwindcss\stubs133817408408225544 1
 87C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\mz\readline.js133817408387422975 0
@@ -15,7 +15,7 @@
 92C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\thenify-all\LICENSE133817408382629400 0
 104C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\caniuse-lite\data\regions\SR.js133817408416045233 0
 120C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\@swc\helpers\esm\_class_private_field_update.js133817408402687852 0
-64C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\dist133817417790245025 1
+64C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\dist133817425405916211 1
 143C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-multiple133817408391757986 0
 97C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\yaml\browser\dist\log.js133817408399990283 0
 107C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\yaml\browser\dist\nodes\YAMLMap.js133817408403931808 0
@@ -64,7 +64,7 @@
 122C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\@swc\helpers\esm\_define_enumerable_properties.js133817408403222526 0
 122C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\yaml\dist\compose\util-empty-scalar-position.d.ts133817408406337401 0
 123C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\sucrase\dist\types\parser\traverser\statement.d.ts133817408405138504 0
-79C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\src\page\Signup.jsx133817407729270861 0
+79C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\src\page\Signup.jsx133817424353952324 0
 84C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\htmlparser2133817408395394229 1
 98C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\js-yaml\lib\type\pairs.js133817408394763258 0
 108C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\signal-exit\dist\cjs\browser.js.map133817408390094316 0
@@ -111,7 +111,7 @@
 93C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\semver\ranges\ltr.js133817408394095893 0
 84C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\signal-exit133817408395310042 1
 84C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\cosmiconfig133817408397089084 1
-77C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\src\page\Home.jsx133817413419375138 0
+77C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\src\page\Home.jsx133817424450224205 0
 104C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\type-fest\source\utilities.d.ts133817408396797055 0
 97C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\yaml\dist\parse\cst.d.ts133817408404813417 0
 103C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\@swc\helpers\_\_async_iterator133817408405481191 1
@@ -120,7 +120,7 @@
 101C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\domutils\lib\esm\legacy.d.ts133817408398570031 0
 101C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\@swc\helpers\_\_to_primitive133817408408295510 1
 113C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\type-fest\source\conditional-except.d.ts133817408387796382 0
-78C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\src\page\Login.jsx133817407729031243 0
+78C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\src\page\Login.jsx133817424246850161 0
 112C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\foreground-child\dist\esm\watchdog.d.ts133817408396374678 0
 81C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\argparse133817408387593556 1
 91C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\htmlnano\index.cjs133817408388860783 0
@@ -133,7 +133,7 @@
 116C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\caniuse-lite\data\features\text-emphasis.js133817408416825247 0
 100C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\domutils\lib\esm\helpers.js133817408384879211 0
 109C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\ts-interface-checker\dist\types.d.ts133817408386114937 0
-93C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\src\components\DocumentUpload.jsx133817407728241660 0
+93C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\src\components\DocumentUpload.jsx133817424610461867 0
 106C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\postcss-selector-parser\README.md133817408396418734 0
 112C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\tailwindcss\src\lib\defaultExtractor.js133817408400134126 0
 123C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133817408415995256 0
@@ -149,7 +149,7 @@
 112C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\caniuse-lite\data\features\dommatrix.js133817408407966147 0
 104C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\caniuse-lite\data\regions\ET.js133817408408547780 0
 91C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\yaml\dist\log.d.ts133817408405261134 0
-88C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\src\components\QASection.jsx133817407728531346 0
+88C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\src\components\QASection.jsx133817424953263311 0
 110C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\resolve\test\resolver\without_basedir133817408399603054 1
 106C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\tailwindcss\lib\corePluginList.js133817408398496518 0
 96C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\postcss\lib\fromJSON.js133817408387893686 0
@@ -334,6 +334,7 @@
 85C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\sucrase\dist133817408403491313 1
 76C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\dlv133817408383232796 1
 107C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\tailwindcss\src\util\hashConfig.js133817408402146607 0
+82C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\dist\index.05cd8cca.js133817425405645670 0
 113C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\@remix-run\router\dist\router.cjs.js.map133817408393490285 0
 112C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\tailwindcss\lib\util\normalizeConfig.js133817408404863439 0
 103C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\yaml\dist\parse\cst-visit.d.ts133817408404773407 0
@@ -2743,7 +2744,7 @@
 98C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\@swc\helpers\cjs\_set.cjs133817408399820756 0
 111C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\posthtml\node_modules\entities\LICENSE133817408380993804 0
 102C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\domutils\lib\esm\package.json133817408392525288 0
-75C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\dist\index.html133817417789999881 0
+75C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\dist\index.html133817425405637322 0
 121C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\string-width-cjs\node_modules\emoji-regex\es2015133817408387172976 1
 106C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\signal-exit\dist\cjs\signals.d.ts133817408394924215 0
 125C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\string-width-cjs\node_modules\emoji-regex\index.d.ts133817408381871956 0
@@ -6809,6 +6810,7 @@
 100C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\.bin\update-browserslist-db133817408424484147 0
 104C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\node_modules\.bin\update-browserslist-db.ps1133817408424484147 0
 89C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\dist\frontend.59712999.js.map133817407725590855 0
+86C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\dist\index.05cd8cca.js.map133817425405900703 0
 82C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\dist\index.56e2f522.js133817417790005258 0
 86C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\dist\index.56e2f522.js.map133817417790233868 0
 87C:\Users\rohit\Downloads\qaPDF_driveX\qaPDF_driveX\frontend\dist\index.61d3354a.css.map133817416943666572 0
