@@ -19,7 +19,7 @@ const askQuestion = async (req, res) => {
 
     const prompt = `
 You are an AI assistant. You must answer the question strictly based on the provided document below. Do not include any information outside of this document. If the document does not contain enough information to answer, respond with "Insufficient information in the document." Do not guess or assume anything.
-
+provide me answer in html code but do not write <HTML> tag just write that div or table if needed.
 Document:
 ---
 ${context}
